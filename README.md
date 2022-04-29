@@ -21,3 +21,9 @@ Uygulamaya dahil edilen kütüphaneler: (güncellenmektedir)
 #### <strong Screenshots>
  
  ![alt text](https://raw.githubusercontent.com/zekeriyaozcakar/for-disgrafi/main/Screenshots_/Screenshot_1.jpeg)
+ ![alt text](https://raw.githubusercontent.com/zekeriyaozcakar/for-disgrafi/main/Screenshots_/Screenshot_2.jpeg)
+ ![alt text](https://raw.githubusercontent.com/zekeriyaozcakar/for-disgrafi/main/Screenshots_/Screenshot_3.jpeg)
+ ![alt text](https://raw.githubusercontent.com/zekeriyaozcakar/for-disgrafi/main/Screenshots_/Screenshot_4.jpeg)
+ ![alt text](https://raw.githubusercontent.com/zekeriyaozcakar/for-disgrafi/main/Screenshots_/Screenshot_5.jpeg)
+ ![alt text](https://raw.githubusercontent.com/zekeriyaozcakar/for-disgrafi/main/Screenshots_/Screenshot_6.jpeg)
+
