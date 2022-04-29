@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Panacea.iml" filepath="$PROJECT_DIR$/.idea/modules/Panacea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Panacea.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Panacea.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tracinglibrary/Panacea.tracinglibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/tracinglibrary/Panacea.tracinglibrary.iml" />
+    </modules>
+  </component>
+</project>
